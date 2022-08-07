@@ -976,3 +976,7 @@ letter-spacing: 0.03em;
 
 color: #757575;
 }
+::placeholder{
+  color: rgba(117, 117, 117, 0.5);
+  opacity: 1;
+}
